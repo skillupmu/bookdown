@@ -23,6 +23,8 @@ git clone https://github.com/skillupmu/bookdown.git
    - [GitHub](https://github.com/nozma/bookdown_test/tree/master/docs)
  - [R for Data Science](https://r4ds.had.co.nz/index.html)
    - [GitHub](https://github.com/hadley/r4ds)
+ - [bookdownの体験](https://elated-bhaskara-158b83.netlify.app/)
+ - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html)
 
 
 
