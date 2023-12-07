@@ -28,6 +28,7 @@ git clone https://github.com/skillupmu/bookdown.git
 
  - https://bookdown.org/yihui/bookdown/
 
+https://github.com/jtr13/bookdown-template
 
 
 
