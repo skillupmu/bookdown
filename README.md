@@ -6,8 +6,8 @@
 
 ## git
 ``` 
-git remote set-url origin https://skillupmu@github.com/skillupmu/mkdocs.git
-git clone https://github.com/skillupmu/mkdocs.git
+git remote set-url origin https://skillupmu@github.com/skillupmu/bookdown.git
+git clone https://github.com/skillupmu/bookdown.git
 ```
 
 
