@@ -17,7 +17,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - AppData\Local\Temp\RtmpAvMAGm\downloaded_packages
 
 ## reference
-
+ - [公式](https://bookdown.org/yihui/bookdown/)
  - [bookdownでRmdファイルをｻｯとまとめてGitHubで公開する](https://qiita.com/nozma/items/489497fe246ff8533bf9)
    - [GitHub Pages](https://nozma.github.io/bookdown_test/first-section.html)
    - [GitHub](https://github.com/nozma/bookdown_test/tree/master/docs)
@@ -25,10 +25,8 @@ git clone https://github.com/skillupmu/bookdown.git
    - [GitHub](https://github.com/hadley/r4ds)
  - [bookdownの体験](https://elated-bhaskara-158b83.netlify.app/)
  - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html)
-
- - https://bookdown.org/yihui/bookdown/
-
-https://github.com/jtr13/bookdown-template
+ - [テンプレート](https://github.com/jtr13/bookdown-template)
+   
 
 
 
