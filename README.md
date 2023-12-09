@@ -25,13 +25,7 @@ git clone https://github.com/skillupmu/bookdown.git
    - [GitHub](https://github.com/hadley/r4ds)
  - [bookdownの体験](https://elated-bhaskara-158b83.netlify.app/)
  - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html)
+   - [GitHub](https://github.com/izunyan/practice-bookdown-minimal)
  - [テンプレート](https://github.com/jtr13/bookdown-template)
-
- - https://github.com/yihui/bookdown-minimal
-   
-
-
-
-
 
 
