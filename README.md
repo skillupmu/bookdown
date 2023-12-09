@@ -20,7 +20,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - [公式](https://bookdown.org/yihui/bookdown/)
  - [bookdownでRmdファイルをｻｯとまとめてGitHubで公開する](https://qiita.com/nozma/items/489497fe246ff8533bf9)
    - [GitHub Pages](https://nozma.github.io/bookdown_test/first-section.html)
-   - [GitHub](https://github.com/nozma/bookdown_test/tree/master/docs)
+   - [GitHub](https://github.com/nozma/bookdown_test/tree/master)
  - [R for Data Science](https://r4ds.had.co.nz/index.html)
    - [GitHub](https://github.com/hadley/r4ds)
  - [bookdownの体験](https://elated-bhaskara-158b83.netlify.app/)
