@@ -29,6 +29,8 @@ git clone https://github.com/skillupmu/bookdown.git
  - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html)
    - [GitHub Source](https://github.com/izunyan/practice-bookdown-minimal)
  - [テンプレート](https://github.com/jtr13/bookdown-template)
+ - [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/index.html)
+   - [GitHub Source](https://github.com/shohei-doi/quant_polisci)
 
 
 
