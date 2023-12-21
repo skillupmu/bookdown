@@ -15,6 +15,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - AppData\Local\Temp\RtmpAvMAGm\downloaded_packages
  - install.packages("bookdown")
  - install.packages("webshot")
+ - install.packages("tidyverse")
 
 ## reference
  - https://bookdown.org/
