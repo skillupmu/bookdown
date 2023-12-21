@@ -23,10 +23,11 @@ git clone https://github.com/skillupmu/bookdown.git
 
 ## gitbook example
  - [R-Markdown公式](https://bookdown.org/yihui/rmarkdown/) , [Source](https://github.com/rstudio/rmarkdown-book)   
- - [bookdownの体験](https://elated-bhaskara-158b83.netlify.app/)
+
+## bs4_book example
  - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html) , [Source](https://github.com/izunyan/practice-bookdown-minimal)
 
-## reference
+   
  - [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/index.html) , [Source](https://github.com/shohei-doi/quant_polisci)
  - [私たちのR](https://www.jaysong.net/RBook/session.html) , [Source](https://github.com/JaehyunSong/RBook/)
  - [A Test Bookdown Book](https://phgrosjean.sciviews.org/bookdown-test/) , [Source](https://github.com/phgrosjean/bookdown-test/tree/master)
