@@ -20,8 +20,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - [bookdown公式](https://bookdown.org/yihui/bookdown/)
 
 
-## example
-
+## gitbook example
  - [R-Markdown公式](https://bookdown.org/yihui/rmarkdown/) , [Source](https://github.com/rstudio/rmarkdown-book)   
  - [bookdownでRmdファイルをｻｯとまとめてGitHubで公開する](https://qiita.com/nozma/items/489497fe246ff8533bf9)
    - [GitHub Pages](https://nozma.github.io/bookdown_test/first-section.html) , [Source](https://github.com/nozma/bookdown_test/tree/master)
