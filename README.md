@@ -17,7 +17,8 @@ git clone https://github.com/skillupmu/bookdown.git
  - install.packages("webshot")
 
 ## reference
- - [bookdown公式](https://bookdown.org/yihui/bookdown/)
+ - https://bookdown.org/
+ -  [bookdown公式](https://bookdown.org/yihui/bookdown/)
  - [bookdownでRmdファイルをｻｯとまとめてGitHubで公開する](https://qiita.com/nozma/items/489497fe246ff8533bf9) , [GitHub Pages](https://nozma.github.io/bookdown_test/first-section.html) , [Source](https://github.com/nozma/bookdown_test/tree/master)
 
 
