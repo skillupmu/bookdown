@@ -33,7 +33,8 @@ git clone https://github.com/skillupmu/bookdown.git
  - [Efficient R programming](https://csgillespie.github.io/efficientR/) , [Source](https://github.com/csgillespie/efficientR)
  - [Beyond Multiple Linear Regression](https://bookdown.org/roback/bookdown-BeyondMLR/) , [Source](https://adv-r.hadley.nz/)
  - [Data Science Live Book](https://livebook.datascienceheroes.com/) , [Source](https://github.com/pablo14/data-science-live-book)
-
+ - [Fundamentals of Data Visualization](https://clauswilke.com/dataviz/) , [Source](https://github.com/clauswilke/dataviz)
+ - [Hands-On Programming with R](https://rstudio-education.github.io/hopr/) , [Source](https://github.com/rstudio-education/hopr)
  - [A Test Bookdown Book](https://phgrosjean.sciviews.org/bookdown-test/) , [Source](https://github.com/phgrosjean/bookdown-test/tree/master)
  - [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/index.html) , [Source](https://github.com/shohei-doi/quant_polisci)
  - [私たちのR](https://www.jaysong.net/RBook/) , [Source](https://github.com/JaehyunSong/RBook/)
@@ -43,8 +44,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - [Text Mining with R](https://www.tidytextmining.com/) , [Source](https://github.com/dgrtwo/tidy-text-mining)
  - [Advanced R](https://adv-r.hadley.nz/) , [Source](https://github.com/hadley/adv-r)
  - [Data Science at the Command Line, 2e](https://jeroenjanssens.com/dsatcl/) , [Source](https://github.com/jeroenjanssens/data-science-at-the-command-line)
-
- 
+ - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) , [Source](https://github.com/ThinkR-open/engineering-shiny-book 
  - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html) , [Source](https://github.com/izunyan/practice-bookdown-minimal)
  - [Happy Git and GitHub for the useR](https://happygitwithr.com/) , [Source](https://github.com/jennybc/happy-git-with-r/blob/main/index.Rmd)
 
