@@ -40,7 +40,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - [私たちのR](https://www.jaysong.net/RBook/) , [Source](https://github.com/JaehyunSong/RBook/)
 
 ## bs4_book example
- - [Geocomputation with R](https://github.com/geocompx/geocompr/tree/main) , [Source](https://github.com/geocompx/geocompr)
+ - [Geocomputation with R](https://r.geocompx.org/) , [Source](https://github.com/geocompx/geocompr)
  - [Text Mining with R](https://www.tidytextmining.com/) , [Source](https://github.com/dgrtwo/tidy-text-mining)
  - [Advanced R](https://adv-r.hadley.nz/) , [Source](https://github.com/hadley/adv-r)
  - [Data Science at the Command Line, 2e](https://jeroenjanssens.com/dsatcl/) , [Source](https://github.com/jeroenjanssens/data-science-at-the-command-line)
