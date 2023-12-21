@@ -48,6 +48,3 @@ git clone https://github.com/skillupmu/bookdown.git
  - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html) , [Source](https://github.com/izunyan/practice-bookdown-minimal)
  - [Happy Git and GitHub for the useR](https://happygitwithr.com/) , [Source](https://github.com/jennybc/happy-git-with-r/blob/main/index.Rmd)
 
- - []() , [Source]()
- - []() , [Source]()
-
