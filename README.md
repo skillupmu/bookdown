@@ -44,7 +44,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - [Text Mining with R](https://www.tidytextmining.com/) , [Source](https://github.com/dgrtwo/tidy-text-mining)
  - [Advanced R](https://adv-r.hadley.nz/) , [Source](https://github.com/hadley/adv-r)
  - [Data Science at the Command Line, 2e](https://jeroenjanssens.com/dsatcl/) , [Source](https://github.com/jeroenjanssens/data-science-at-the-command-line)
- - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) , [Source](https://github.com/ThinkR-open/engineering-shiny-book 
+ - [Engineering Production-Grade Shiny Apps](https://engineering-shiny.org/) , [Source](https://github.com/ThinkR-open/engineering-shiny-book)
  - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html) , [Source](https://github.com/izunyan/practice-bookdown-minimal)
  - [Happy Git and GitHub for the useR](https://happygitwithr.com/) , [Source](https://github.com/jennybc/happy-git-with-r/blob/main/index.Rmd)
 
