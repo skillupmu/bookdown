@@ -18,12 +18,12 @@ git clone https://github.com/skillupmu/bookdown.git
 
 ## reference
  - [bookdown公式](https://bookdown.org/yihui/bookdown/)
- - [R-Markdown公式](https://bookdown.org/yihui/rmarkdown/),[Source](https://github.com/rstudio/rmarkdown-book)   
+ - [R-Markdown公式](https://bookdown.org/yihui/rmarkdown/) , [Source](https://github.com/rstudio/rmarkdown-book)   
  - [bookdownでRmdファイルをｻｯとまとめてGitHubで公開する](https://qiita.com/nozma/items/489497fe246ff8533bf9)
-   - [GitHub Pages](https://nozma.github.io/bookdown_test/first-section.html),[Source](https://github.com/nozma/bookdown_test/tree/master)
+   - [GitHub Pages](https://nozma.github.io/bookdown_test/first-section.html) , [Source](https://github.com/nozma/bookdown_test/tree/master)
  - [bookdownの体験](https://elated-bhaskara-158b83.netlify.app/)
- - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html),[Source](https://github.com/izunyan/practice-bookdown-minimal)
- - [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/index.html),[Source](https://github.com/shohei-doi/quant_polisci)
+ - [bookdownの体験2](https://izunyan.github.io/practice-bookdown-minimal/index.html) , [Source](https://github.com/izunyan/practice-bookdown-minimal)
+ - [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/index.html) , [Source](https://github.com/shohei-doi/quant_polisci)
  - []()
  - []()
  - []()
