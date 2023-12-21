@@ -26,12 +26,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/index.html) , [Source](https://github.com/shohei-doi/quant_polisci)
  - [私たちのR](https://www.jaysong.net/RBook/session.html) , [Source](https://github.com/JaehyunSong/RBook/)
  - [A Test Bookdown Book](https://phgrosjean.sciviews.org/bookdown-test/) , [Source](https://github.com/phgrosjean/bookdown-test/tree/master)
+ - [Happy Git and GitHub for the useR](https://happygitwithr.com/) , [Source](https://github.com/jennybc/happy-git-with-r/blob/main/index.Rmd)
  - []()
  - []()
- - []()
-
-
-
- - [テンプレート](https://github.com/jtr13/bookdown-template)
-
 
