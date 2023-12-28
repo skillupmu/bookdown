@@ -1,13 +1,13 @@
-# URL
+## URL
   - https://skillupmu.github.io/bookdown/
 
-# git
+## git
 ``` 
 git remote set-url origin https://skillupmu@github.com/skillupmu/bookdown.git
 git clone https://github.com/skillupmu/bookdown.git
 ```
 
-# install
+## install
  - R for Windows 4.3.2
  - RStudio 2023.09.1
  - AppData\Local\Temp\RtmpAvMAGm\downloaded_packages
@@ -15,13 +15,13 @@ git clone https://github.com/skillupmu/bookdown.git
  - install.packages("webshot")
  - install.packages("tidyverse")
 
-# reference
+## reference
  - https://bookdown.org/
  -  [bookdown公式](https://bookdown.org/yihui/bookdown/)
  - [bookdownでRmdファイルをｻｯとまとめてGitHubで公開する](https://qiita.com/nozma/items/489497fe246ff8533bf9) , [GitHub Pages](https://nozma.github.io/bookdown_test/first-section.html) , [Source](https://github.com/nozma/bookdown_test/tree/master)
 
 
-# gitbook example
+## gitbook example
  - [R Graphics Cookbook, 2nd edition](https://r-graphics.org/) , [Source](https://github.com/wch/rgcookbook)
  - [R Markdown Cookbook](https://bookdown.org/yihui/rmarkdown-cookbook/) , [Source](https://github.com/rstudio/rmarkdown-cookbook)
  - [Statistical Inference via Data Science](https://moderndive.com/) , [Source](https://github.com/moderndive/ModernDive_book)
@@ -38,7 +38,7 @@ git clone https://github.com/skillupmu/bookdown.git
  - [Rで計量政治学入門](https://shohei-doi.github.io/quant_polisci/index.html) , [Source](https://github.com/shohei-doi/quant_polisci)
  - [私たちのR](https://www.jaysong.net/RBook/) , [Source](https://github.com/JaehyunSong/RBook/)
 
-# bs4_book example
+## bs4_book example
  - [Geocomputation with R](https://r.geocompx.org/) , [Source](https://github.com/geocompx/geocompr)
  - [Text Mining with R](https://www.tidytextmining.com/) , [Source](https://github.com/dgrtwo/tidy-text-mining)
  - [Advanced R](https://adv-r.hadley.nz/) , [Source](https://github.com/hadley/adv-r)
