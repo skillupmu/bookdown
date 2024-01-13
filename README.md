@@ -2,10 +2,18 @@
   - https://skillupmu.github.io/bookdown/
 
 ## git
-``` 
-git remote set-url origin https://skillupmu@github.com/skillupmu/bookdown.git
-git clone https://github.com/skillupmu/bookdown.git
 ```
+git clone https://github.com/skillupmu/bookdown.git
+git remote set-url origin https://github.com/skillupmu/bookdown.git
+git remote add origin https://github.com/skillupmu/bookdown.git
+cd skillupmu/bookdown
+git init
+git add .
+git commit -m'add'
+git push origin master
+```
+
+
 
 ## install
  - R for Windows 4.3.2
